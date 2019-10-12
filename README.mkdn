@@ -6,11 +6,10 @@ Credits:
 =======
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
- * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
  * [**AospExtended**](https://github.com/AospExtended)
  * [**PixelExperience**](https://github.com/PixelExperience)
  * [**ABC**](https://github.com/ezio84?tab=repositories)
- * [**RevengeOs**](https://github.com/RevengeOS)
+ * [**RevengeOS**](https://github.com/RevengeOS)
  * [**POSP**](https://github.com/PotatoProject)
 -----------------------------------------------------------------------------
 
