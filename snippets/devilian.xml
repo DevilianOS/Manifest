@@ -12,6 +12,7 @@
           fetch="https://gitlab.com/DevilianOS/"
           revision="ten" />
 
+  <!-- General repos -->
   <project path="build/make" name="build" groups="pdk" remote="devilian" revision="ten">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
@@ -26,6 +27,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="manifest" name="manifest" remote="devilian" revision="ten" />
   <project path="art" name="art" remote="devilian" revision="ten" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="devilian" revision="ten" />
   <project path="hardware/devilian/interfaces" name="hardware_devilian_interfaces" remote="devilian" revision="ten" />
@@ -59,6 +61,8 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="devilian" revision="ten" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="devilian" revision="ten" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="devilian" revision="ten" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="devilian" revision="ten" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="devilian" revision="ten" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/av" name="frameworks_av" remote="devilian" revision="ten" />
