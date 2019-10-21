@@ -63,6 +63,8 @@
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="devilian" revision="ten" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="devilian" revision="ten" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="devilian" revision="ten" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="devilian" revision="ten" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="devilian" revision="ten" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/av" name="frameworks_av" remote="devilian" revision="ten" />
